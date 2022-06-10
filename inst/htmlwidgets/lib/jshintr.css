@@ -1,0 +1,36 @@
+#jshintr-body {
+  overflow: auto;
+  background-color: azure;
+}
+
+#jshintr-file {
+  text-decoration: underline;
+  text-align: center;
+}
+
+#jshintr-radio {
+  background-color: seashell;
+  padding: 3px;
+}
+
+.jshintr-label {
+  font-weight: bold;
+  font-family: Helvetica;
+}
+
+#jshintr-tbl {
+  background-color: lemonchiffon;
+}
+
+#jshintr-tblBody>tr>td>code {
+  font-weight: bold;
+  color: navy;
+}
+
+.jshintr-center {
+  text-align: center;
+}
+
+#jshintr-p {
+  font-style: italic;
+}

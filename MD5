@@ -1,0 +1,14 @@
+c93128ecb15658d87e8f9cdf5b365d08 *DESCRIPTION
+8d6044388bccc082b41d874e80a3e0c1 *LICENSE.note
+983be5198b3deb7cce48524f035dbeac *NAMESPACE
+2d3496e84a0c0d73d8ff19d87ce7ad25 *NEWS.md
+0c82167db8bc226c533f72475d3bae81 *R/addin.R
+b1a31c1bd833dbbdd26108e308e21eb4 *R/jshintr.R
+072eafbfb66aae448ed257119b27beed *README.md
+3b485c71a37c665fb7356fd569237344 *inst/htmlwidgets/jshintr.js
+51fbc01fd8cdfa369e2e465846e7698b *inst/htmlwidgets/jshintr.yaml
+4263b63a958d57330fe0ab354c238f57 *inst/htmlwidgets/lib/jshint.js
+ae4cb9ac0e987198c88e2d64e27d4ecd *inst/htmlwidgets/lib/jshintr.css
+01f598b5deedea67da393b7abf6d807a *inst/jsexample.js
+f4b780d9933b80b50e6e43c7dc7f70b6 *inst/rstudio/addins.dcf
+ba7ec548512d7c956c602b3ab538ac5b *man/jshintr.Rd
